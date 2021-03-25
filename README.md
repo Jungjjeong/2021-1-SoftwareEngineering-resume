@@ -1,4 +1,4 @@
 # SE-resume
 Software Engineering Homework- resume
 
-![JiyoungResume](./resume.jpg)
+![JiyoungResume](./resume.JPG)
